@@ -36,7 +36,7 @@ software has a lot of different jobs.
 * CoreOS stuff
   * [CoreOS](https://coreos.com/why/) (linux distribution)
   * [rkt](https://coreos.com/rkt)  (runs containers)
-  * [flannel]((https://coreos.com/flannel/docs/latest/)) (network overlay)
+  * [flannel](https://coreos.com/flannel/docs/latest/) (network overlay)
   * [etcd](https://coreos.com/etcd/) (key-value store)
 * HashiCorp stuff
   * [consul](https://www.consul.io/) (key-value store, service discovery)
